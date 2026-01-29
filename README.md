@@ -15,7 +15,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - JavaScript
 
 ##  Screenshot
-<img width="642" height="809" alt="calculator" src="https://github.com/user-attachments/assets/e5ee1089-9faa-4646-9c34-2a99f0d26841" />
+<img width="350" height="400" alt="calculator" src="https://github.com/user-attachments/assets/e5ee1089-9faa-4646-9c34-2a99f0d26841" />
 
 ##  Live Demo
 https://-live-link.com
