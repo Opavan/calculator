@@ -18,7 +18,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 <img width="350" height="400" alt="calculator" src="https://github.com/user-attachments/assets/e5ee1089-9faa-4646-9c34-2a99f0d26841" />
 
 ##  Live Demo
-https://-live-link.com
+"https://opavan.github.io/calculator/"
 
 ##  How to Run Locally
 1. Clone the repository
